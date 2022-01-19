@@ -1,0 +1,8 @@
+{
+    "concourse": {
+        "url": "https://cicd-plt.shs.plint.eu.pti.aws.cloud.vwgroup.com",
+        "username": "admin",
+        "password": "tNePviecLqCOhs7rRI2VX1o79hlDkN2g",
+        "team": "my_team"
+    }
+}
